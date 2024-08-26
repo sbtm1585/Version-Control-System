@@ -1,0 +1,93 @@
+[1;31m
+Start test 1[0m
+The username is Max.
+[1;31m
+Start test 2[0m
+ The file 'abc.txt' is tracked.
+[1;31m
+Start test 3[0m
+
+These are SVCS commands:
+#config     Get and set a username.
+$add        Add a file to the index.
+log        Show commit logs.
+commit     Save changes.
+checkout   Restore a file.
+
+
+These are SVCS commands:
+#config     Get and set a username.
+$add        Add a file to the index.
+log        Show commit logs.
+commit     Save changes.
+checkout   Restore a file.
+
+[1;31m
+Start test 4[0m
+Please, tell me who you are.
+The username is Max.
+The username is Max.
+The username is John.
+The username is John.
+[1;31m
+Start test 5[0m
+Add a file to the index.
+$The file 'file596.txt' is tracked.
+Tracked files:
+file596.txt
+
+$The file 'file929.txt' is tracked.
+Tracked files:
+file596.txt
+file929.txt
+
+Can't find 'file627.txt'.
+[1;31m
+Start test 6[0m
+The username is Marie324.
+'The file 'first_file.txt' is tracked.
+(The file 'second_file.txt' is tracked.
+Changes are committed.
+[1;31m
+Start test 7[0m
+The username is Sofie680.
+'The file 'first_file.txt' is tracked.
+(The file 'second_file.txt' is tracked.
+No commits yet.
+Message was not passed.
+Changes are committed.
+)commit 82dfa5549ebc9afc168eb7931ebece5f
+Author: Sofie680
+Test message
+
+Nothing to commit.
+Changes are committed.
+)commit a1baa1e58d99785abb6fcf526aac6d4f
+Author: Sofie680
+Test message3
+
+)commit 82dfa5549ebc9afc168eb7931ebece5f
+Author: Sofie680
+Test message
+
+[1;31m
+Start test 8[0m
+The username is Marie177.
+'The file 'first_file.txt' is tracked.
+(The file 'second_file.txt' is tracked.
+Changes are committed.
+Changes are committed.
+Commit id was not passed.
+Commit does not exist.
+)commit ba9b13f1aeddad978bfc4f2231a17f55
+Author: Marie177
+Second commit
+
+)commit 32877ad7b71db068b968af65af2ebdc9
+Author: Marie177
+First commit
+
+6Switched to commit 32877ad7b71db068b968af65af2ebdc9.
+[1;31m
+Start test 9[0m
+&'wrongArg100' is not a SVCS command.

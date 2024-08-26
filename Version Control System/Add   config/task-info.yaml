@@ -1,0 +1,28 @@
+type: edu
+custom_name: Add & config
+files:
+  - name: src/svcs/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+  - name: src/svcs/Class.kt
+    visible: true
+    learner_created: true
+  - name: src/svcs/Constants.kt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/13043#comment
+status: Failed
+feedback:
+  message: |-
+    Wrong answer in test #6
+
+    Your program should output &quot;Show commit logs.&quot;,
+    but printed: &quot;No commits yet.
+    &quot;
+
+    Arguments: log
+  time: "Sun, 25 Aug 2024 19:06:19 UTC"
+record: 2

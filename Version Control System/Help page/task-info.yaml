@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/svcs/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/13042#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 24 Aug 2024 19:58:44 UTC"
+record: 1

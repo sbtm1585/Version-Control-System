@@ -1,0 +1,27 @@
+type: edu
+custom_name: Log & commit
+files:
+  - name: src/svcs/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+  - name: src/svcs/Constants.kt
+    visible: true
+    learner_created: true
+  - name: src/svcs/Classes.kt
+    visible: true
+    learner_created: true
+  - name: new_IDs.txt
+    visible: true
+    learner_created: true
+  - name: old_IDs.txt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/13044#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Aug 2024 17:57:24 UTC"
+record: 3
